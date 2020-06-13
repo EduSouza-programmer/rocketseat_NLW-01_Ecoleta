@@ -87,6 +87,7 @@ let selectedItens = [];
 const collectedItems = document.querySelector("input[name=itens]");
 
 function handleSelectedItem(event) {
+  
   /* Função para manuzear os itens, esta função vamos verificar se o item está selecionado ou não 
   e adicionar em uma array para então fazer o envio do formulário com os dados selecionados... */
 
