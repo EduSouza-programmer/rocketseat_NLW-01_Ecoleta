@@ -1,4 +1,6 @@
 const express = require("express");
+
+
 const server = express();
 
 //Pegar o banco de dados
