@@ -1,1 +1,1 @@
-# Semana NLW Rocketseat
+# Semana NLW-1.0 Rocketseat
